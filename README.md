@@ -11,4 +11,4 @@ brifl is an open-source, collabrative form building tool for creators across all
 ## Contributors
 
 - [Oğuzhan Özcan](https://github.com/ouzozcn) / Product Designer
-- [Cahit Kargı](https://github.com/cahitkargi) / Full-Stack Developer
+- [Cahit Kargı](https://github.com/cahitkargi) / Software Developer
